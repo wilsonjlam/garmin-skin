@@ -16,7 +16,7 @@
 			:where(.grid, .flex) > * {
 				min-width: 0;
 			}
-			:where(p, h1, h2, h3, h4, li, dd, td, th, .badge) {
+			:where(p, h1, h2, h3, h4, li, dd, td, th) {
 				overflow-wrap: anywhere;
 			}
 			:where(img, svg) {
@@ -64,9 +64,12 @@
 			.collapse:not(.collapse-open):not(:focus):not(:focus-within):not(:has(> input:checked)) > .collapse-content {
 				visibility: hidden;
 			}
-			/* badges must never wrap+clip their text (e.g. "PEAK" splitting on mobile) */
+			/* badges: allow wrapping at spaces (long info badges) but never break mid-word
+			   (so "PEAK" stays intact), and grow in height so text is never clipped */
 			.badge {
-				white-space: nowrap;
+				white-space: normal;
+				overflow-wrap: normal;
+				word-break: keep-all;
 				height: auto;
 				min-height: 1.25rem;
 				padding-top: 0.15rem;
@@ -411,7 +414,7 @@
 
 				<!-- 40 mpw challenge -->
 				<div class="mt-8 rounded-box border-2 border-primary/40 bg-primary/5 p-6">
-					<div class="flex items-center gap-2 mb-3">
+					<div class="flex flex-wrap items-center gap-2 mb-3">
 						<span class="badge badge-primary">You asked me to challenge this</span>
 						<h3 class="text-xl font-bold">
 							"Should I aim for 40 mpw?"<a
