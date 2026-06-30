@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/wilsonlam/Downloads/garmin-export-6-25-26/DI_CONNECT/DI-Connect-Fitness/**)",
+      "Bash(python3 -)",
+      "WebSearch",
+      "Bash(mkdir -p /Users/wilsonlam/workspace/garmin-skin/plans)",
+      "Bash(cp /Users/wilsonlam/.claude/plans/i-want-you-to-inherited-firefly.md /Users/wilsonlam/workspace/garmin-skin/plans/nyc-marathon-2026-training-plan.md)"
+    ]
+  }
+}
