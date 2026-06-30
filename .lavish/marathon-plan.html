@@ -26,6 +26,10 @@
 			html {
 				scroll-behavior: smooth;
 			}
+			/* drawer-content must fill the viewport height so the page doesn't shift */
+			.drawer-content {
+				min-height: 100dvh;
+			}
 			.section-eyebrow {
 				letter-spacing: 0.18em;
 				text-transform: uppercase;
@@ -100,9 +104,32 @@
 		</style>
 	</head>
 	<body class="bg-base-100 text-base-content">
+	<div class="drawer">
+		<input id="nav-drawer" type="checkbox" class="drawer-toggle" />
+		<!-- drawer-side: the slide-in menu on mobile -->
+		<div class="drawer-side z-[100]">
+			<label for="nav-drawer" aria-label="close menu" class="drawer-overlay"></label>
+			<nav class="menu bg-base-200 text-base-content min-h-full w-64 p-4 gap-1 text-sm">
+				<p class="menu-title text-xs uppercase tracking-widest opacity-60 pb-1">🗽 NYC 2026 · Wilson</p>
+				<li><a href="#diagnosis" onclick="document.getElementById('nav-drawer').checked=false">Diagnosis</a></li>
+				<li><a href="#strategy" onclick="document.getElementById('nav-drawer').checked=false">Strategy</a></li>
+				<li><a href="#plan" onclick="document.getElementById('nav-drawer').checked=false">18-Week Plan</a></li>
+				<li><a href="#detailed" onclick="document.getElementById('nav-drawer').checked=false">Week Plan</a></li>
+				<li><a href="#strength" onclick="document.getElementById('nav-drawer').checked=false">Strength</a></li>
+				<li><a href="#course" onclick="document.getElementById('nav-drawer').checked=false">Race Day</a></li>
+				<li><a href="#import" onclick="document.getElementById('nav-drawer').checked=false">Garmin</a></li>
+				<li><a href="#decisions" onclick="document.getElementById('nav-drawer').checked=false" class="text-primary font-semibold">Decisions →</a></li>
+				<li><a href="#appendix" onclick="document.getElementById('nav-drawer').checked=false">Appendix</a></li>
+			</nav>
+		</div>
+		<!-- drawer-content: the whole page -->
+		<div class="drawer-content">
 		<!-- ============ NAV ============ -->
 		<div class="navbar bg-base-200/70 backdrop-blur sticky top-0 z-50 border-b border-base-content/10 px-4 lg:px-8">
-			<div class="navbar-start">
+			<div class="navbar-start gap-1">
+				<label for="nav-drawer" class="btn btn-ghost btn-sm md:hidden" aria-label="open menu">
+					<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h7" /></svg>
+				</label>
 				<span class="text-lg font-bold tracking-tight">🗽 NYC 2026 · <span class="text-primary">Wilson</span></span>
 			</div>
 			<div class="navbar-end hidden md:flex gap-1 text-sm">
@@ -122,7 +149,7 @@
 			<!-- ============ HERO ============ -->
 			<section class="pt-12 pb-8">
 				<p class="section-eyebrow text-primary mb-3">Marathon Training Proposal · 18 Weeks</p>
-				<h1 class="text-4xl lg:text-6xl font-black leading-tight tracking-tight">
+				<h1 class="text-3xl sm:text-4xl lg:text-6xl font-black leading-tight tracking-tight">
 					Train for <span class="text-primary">durability</span>,<br />not just distance.
 				</h1>
 				<p class="mt-5 max-w-2xl text-lg text-base-content/70">
@@ -2467,7 +2494,7 @@
 								<strong>schedules every week</strong> (Jun 29 → Nov 1) on your Connect calendar, synced to your
 								<strong>Forerunner 255 Music</strong>.
 							</p>
-							<div class="mockup-code text-xs mt-3">
+							<div class="overflow-x-auto"><div class="mockup-code text-xs mt-3">
 								<pre data-prefix="$"><code>pip install garminconnect</code></pre>
 								<pre data-prefix="$"><code>cd plans/garmin</code></pre>
 								<pre data-prefix="#" class="text-base-content/50"><code> dry run — writes nothing</code></pre>
@@ -2476,7 +2503,7 @@
 								<pre data-prefix="$"><code>python push_to_garmin.py --push --only 1</code></pre>
 								<pre data-prefix="#" class="text-base-content/50"><code> push the whole plan</code></pre>
 								<pre data-prefix="$"><code>python push_to_garmin.py --push</code></pre>
-							</div>
+							</div></div>
 							<div class="text-xs text-base-content/50 mt-2">
 								Dry-run by default · <code class="text-xs">--cleanup</code> undoes everything if anything looks off ·
 								credentials stay on your machine. Strength days stay in the plan doc (the 255’s strength tracking is
@@ -2871,5 +2898,7 @@
 				});
 			}
 		</script>
-	</body>
+		</div><!-- /drawer-content -->
+	</div><!-- /drawer -->
+</body>
 </html>
