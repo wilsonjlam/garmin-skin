@@ -1,0 +1,1406 @@
+[
+ {
+  "week": 1,
+  "dates": "Jun 29 – Jul 5",
+  "phase": "Base",
+  "total": "15 mi",
+  "cells": [
+   {
+    "dow": "Mon",
+    "main": "Rest",
+    "sub": "mobility",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Tue",
+    "main": "3 mi",
+    "sub": "easy + 4×20s strides",
+    "strength": "💪 A",
+    "long": false,
+    "quality": true,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Wed",
+    "main": "2 mi",
+    "sub": "easy",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Thu",
+    "main": "2 mi",
+    "sub": "easy",
+    "strength": "💪 B",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Fri",
+    "main": "2 mi",
+    "sub": "recovery",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Sat",
+    "main": "Rest",
+    "sub": "",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Sun",
+    "main": "6 mi",
+    "sub": "long, easy",
+    "strength": "",
+    "long": true,
+    "quality": false,
+    "race": false,
+    "rest": false
+   }
+  ]
+ },
+ {
+  "week": 2,
+  "dates": "Jul 6 – Jul 12",
+  "phase": "Base",
+  "total": "17 mi",
+  "cells": [
+   {
+    "dow": "Mon",
+    "main": "Rest",
+    "sub": "mobility",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Tue",
+    "main": "3 mi",
+    "sub": "easy + 6×20s strides",
+    "strength": "💪 A",
+    "long": false,
+    "quality": true,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Wed",
+    "main": "2 mi",
+    "sub": "easy",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Thu",
+    "main": "2 mi",
+    "sub": "easy",
+    "strength": "💪 B",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Fri",
+    "main": "2 mi",
+    "sub": "recovery",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Sat",
+    "main": "Rest",
+    "sub": "",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Sun",
+    "main": "8 mi",
+    "sub": "long, easy",
+    "strength": "",
+    "long": true,
+    "quality": false,
+    "race": false,
+    "rest": false
+   }
+  ]
+ },
+ {
+  "week": 3,
+  "dates": "Jul 13 – Jul 19",
+  "phase": "Base",
+  "total": "20 mi",
+  "cells": [
+   {
+    "dow": "Mon",
+    "main": "Rest",
+    "sub": "mobility",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Tue",
+    "main": "3 mi",
+    "sub": "easy + 6 hill strides",
+    "strength": "💪 A",
+    "long": false,
+    "quality": true,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Wed",
+    "main": "3 mi",
+    "sub": "easy",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Thu",
+    "main": "2 mi",
+    "sub": "easy",
+    "strength": "💪 B",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Fri",
+    "main": "2 mi",
+    "sub": "recovery",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Sat",
+    "main": "Rest",
+    "sub": "",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Sun",
+    "main": "10 mi",
+    "sub": "long, easy",
+    "strength": "",
+    "long": true,
+    "quality": false,
+    "race": false,
+    "rest": false
+   }
+  ]
+ },
+ {
+  "week": 4,
+  "dates": "Jul 20 – Jul 26",
+  "phase": "Base",
+  "total": "15 mi",
+  "cells": [
+   {
+    "dow": "Mon",
+    "main": "Rest",
+    "sub": "mobility",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Tue",
+    "main": "3 mi",
+    "sub": "easy + strides",
+    "strength": "💪 1×",
+    "long": false,
+    "quality": true,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Wed",
+    "main": "2 mi",
+    "sub": "easy",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Thu",
+    "main": "3 mi",
+    "sub": "easy",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Fri",
+    "main": "Rest",
+    "sub": "",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Sat",
+    "main": "Rest",
+    "sub": "",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Sun",
+    "main": "7 mi",
+    "sub": "long, easy",
+    "strength": "",
+    "long": true,
+    "quality": false,
+    "race": false,
+    "rest": false
+   }
+  ]
+ },
+ {
+  "week": 5,
+  "dates": "Jul 27 – Aug 2",
+  "phase": "Build",
+  "total": "22 mi",
+  "cells": [
+   {
+    "dow": "Mon",
+    "main": "Rest",
+    "sub": "mobility",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Tue",
+    "main": "5 mi",
+    "sub": "tempo 2×10 min @ 9:40",
+    "strength": "💪 A",
+    "long": false,
+    "quality": true,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Wed",
+    "main": "2 mi",
+    "sub": "easy",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Thu",
+    "main": "2 mi",
+    "sub": "easy",
+    "strength": "💪 B",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Fri",
+    "main": "2 mi",
+    "sub": "recovery",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Sat",
+    "main": "Rest",
+    "sub": "",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Sun",
+    "main": "11 mi",
+    "sub": "long · gel every 35 min",
+    "strength": "",
+    "long": true,
+    "quality": false,
+    "race": false,
+    "rest": false
+   }
+  ]
+ },
+ {
+  "week": 6,
+  "dates": "Aug 3 – Aug 9",
+  "phase": "Build",
+  "total": "24 mi",
+  "cells": [
+   {
+    "dow": "Mon",
+    "main": "Rest",
+    "sub": "mobility",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Tue",
+    "main": "6 mi",
+    "sub": "tempo 3×10 min @ 9:40",
+    "strength": "💪 A",
+    "long": false,
+    "quality": true,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Wed",
+    "main": "2 mi",
+    "sub": "easy",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Thu",
+    "main": "2 mi",
+    "sub": "easy + strides",
+    "strength": "💪 B",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Fri",
+    "main": "2 mi",
+    "sub": "recovery",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Sat",
+    "main": "Rest",
+    "sub": "",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Sun",
+    "main": "12 mi",
+    "sub": "long · fuel",
+    "strength": "",
+    "long": true,
+    "quality": false,
+    "race": false,
+    "rest": false
+   }
+  ]
+ },
+ {
+  "week": 7,
+  "dates": "Aug 10 – Aug 16",
+  "phase": "Build",
+  "total": "27 mi",
+  "cells": [
+   {
+    "dow": "Mon",
+    "main": "Rest",
+    "sub": "mobility",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Tue",
+    "main": "6 mi",
+    "sub": "hills 6×60s",
+    "strength": "💪 A",
+    "long": false,
+    "quality": true,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Wed",
+    "main": "3 mi",
+    "sub": "easy",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Thu",
+    "main": "3 mi",
+    "sub": "easy",
+    "strength": "💪 B",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Fri",
+    "main": "2 mi",
+    "sub": "recovery",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Sat",
+    "main": "Rest",
+    "sub": "",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Sun",
+    "main": "13 mi",
+    "sub": "long · fuel",
+    "strength": "",
+    "long": true,
+    "quality": false,
+    "race": false,
+    "rest": false
+   }
+  ]
+ },
+ {
+  "week": 8,
+  "dates": "Aug 17 – Aug 23",
+  "phase": "Build",
+  "total": "20 mi",
+  "cells": [
+   {
+    "dow": "Mon",
+    "main": "Rest",
+    "sub": "mobility",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Tue",
+    "main": "4 mi",
+    "sub": "easy + strides",
+    "strength": "💪 1×",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Wed",
+    "main": "3 mi",
+    "sub": "easy",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Thu",
+    "main": "3 mi",
+    "sub": "easy",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Fri",
+    "main": "Rest",
+    "sub": "",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Sat",
+    "main": "Rest",
+    "sub": "",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Sun",
+    "main": "10 mi",
+    "sub": "long, relaxed",
+    "strength": "",
+    "long": true,
+    "quality": false,
+    "race": false,
+    "rest": false
+   }
+  ]
+ },
+ {
+  "week": 9,
+  "dates": "Aug 24 – Aug 30",
+  "phase": "Build",
+  "total": "29 mi",
+  "cells": [
+   {
+    "dow": "Mon",
+    "main": "Rest",
+    "sub": "mobility",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Tue",
+    "main": "7 mi",
+    "sub": "tempo 4×10 min @ 9:40",
+    "strength": "💪 A",
+    "long": false,
+    "quality": true,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Wed",
+    "main": "3 mi",
+    "sub": "easy",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Thu",
+    "main": "3 mi",
+    "sub": "easy",
+    "strength": "💪 B",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Fri",
+    "main": "2 mi",
+    "sub": "recovery",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Sat",
+    "main": "Rest",
+    "sub": "",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Sun",
+    "main": "14 mi",
+    "sub": "long · fuel",
+    "strength": "",
+    "long": true,
+    "quality": false,
+    "race": false,
+    "rest": false
+   }
+  ]
+ },
+ {
+  "week": 10,
+  "dates": "Aug 31 – Sep 6",
+  "phase": "Build",
+  "total": "31 mi",
+  "cells": [
+   {
+    "dow": "Mon",
+    "main": "Rest",
+    "sub": "mobility",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Tue",
+    "main": "7 mi",
+    "sub": "3 mi @ MP (10:30)",
+    "strength": "💪 A",
+    "long": false,
+    "quality": true,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Wed",
+    "main": "3 mi",
+    "sub": "easy",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Thu",
+    "main": "4 mi",
+    "sub": "easy + strides",
+    "strength": "💪 B",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Fri",
+    "main": "2 mi",
+    "sub": "recovery",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Sat",
+    "main": "Rest",
+    "sub": "",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Sun",
+    "main": "15 mi",
+    "sub": "long · last 3 mi @ MP · fuel",
+    "strength": "",
+    "long": true,
+    "quality": false,
+    "race": false,
+    "rest": false
+   }
+  ]
+ },
+ {
+  "week": 11,
+  "dates": "Sep 7 – Sep 13",
+  "phase": "Peak",
+  "total": "33 mi",
+  "cells": [
+   {
+    "dow": "Mon",
+    "main": "Rest",
+    "sub": "mobility",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Tue",
+    "main": "7 mi",
+    "sub": "tempo 5×8 min @ 9:40",
+    "strength": "💪 A",
+    "long": false,
+    "quality": true,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Wed",
+    "main": "4 mi",
+    "sub": "easy",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Thu",
+    "main": "4 mi",
+    "sub": "easy",
+    "strength": "💪 B maintain",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Fri",
+    "main": "2 mi",
+    "sub": "recovery",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Sat",
+    "main": "Rest",
+    "sub": "",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Sun",
+    "main": "16 mi",
+    "sub": "long · rolling hills last 4 mi",
+    "strength": "",
+    "long": true,
+    "quality": false,
+    "race": false,
+    "rest": false
+   }
+  ]
+ },
+ {
+  "week": 12,
+  "dates": "Sep 14 – Sep 20",
+  "phase": "Peak",
+  "total": "~27 mi",
+  "cells": [
+   {
+    "dow": "Mon",
+    "main": "Rest",
+    "sub": "mobility",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Tue",
+    "main": "5 mi",
+    "sub": "easy + strides",
+    "strength": "💪 1× light",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Wed",
+    "main": "4 mi",
+    "sub": "easy",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Thu",
+    "main": "3 mi",
+    "sub": "easy",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Fri",
+    "main": "2 mi",
+    "sub": "shakeout + 4 strides",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Sat",
+    "main": "Rest",
+    "sub": "",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Sun",
+    "main": "🏁 Half",
+    "sub": "Half Marathon — first 10 mi @ MP, last 5K by feel",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   }
+  ]
+ },
+ {
+  "week": 13,
+  "dates": "Sep 21 – Sep 27",
+  "phase": "Peak",
+  "total": "35 mi",
+  "cells": [
+   {
+    "dow": "Mon",
+    "main": "Rest",
+    "sub": "mobility",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Tue",
+    "main": "7 mi",
+    "sub": "tempo 4×10 min @ 9:40",
+    "strength": "💪 A",
+    "long": false,
+    "quality": true,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Wed",
+    "main": "4 mi",
+    "sub": "easy",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Thu",
+    "main": "4 mi",
+    "sub": "easy",
+    "strength": "💪 B maintain",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Fri",
+    "main": "2 mi",
+    "sub": "recovery",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Sat",
+    "main": "Rest",
+    "sub": "",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Sun",
+    "main": "18 mi",
+    "sub": "long · last 5 mi @ MP · full fuel",
+    "strength": "",
+    "long": true,
+    "quality": false,
+    "race": false,
+    "rest": false
+   }
+  ]
+ },
+ {
+  "week": 14,
+  "dates": "Sep 28 – Oct 4",
+  "phase": "Peak",
+  "total": "40 mi",
+  "cells": [
+   {
+    "dow": "Mon",
+    "main": "Rest",
+    "sub": "mobility",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Tue",
+    "main": "8 mi",
+    "sub": "4 mi @ MP",
+    "strength": "💪 A",
+    "long": false,
+    "quality": true,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Wed",
+    "main": "4 mi",
+    "sub": "easy",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Thu",
+    "main": "5 mi",
+    "sub": "easy + strides",
+    "strength": "💪 B light",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Fri",
+    "main": "3 mi",
+    "sub": "recovery",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Sat",
+    "main": "Rest",
+    "sub": "",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Sun",
+    "main": "20 mi",
+    "sub": "DRESS REHEARSAL — race kit & breakfast, miles 12–16 @ MP",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   }
+  ]
+ },
+ {
+  "week": 15,
+  "dates": "Oct 5 – Oct 11",
+  "phase": "Peak",
+  "total": "32 mi",
+  "cells": [
+   {
+    "dow": "Mon",
+    "main": "Rest",
+    "sub": "mobility",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Tue",
+    "main": "7 mi",
+    "sub": "tempo 4×8 min @ 9:40",
+    "strength": "💪 A light",
+    "long": false,
+    "quality": true,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Wed",
+    "main": "4 mi",
+    "sub": "easy",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Thu",
+    "main": "3 mi",
+    "sub": "easy",
+    "strength": "💪 B light",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Fri",
+    "main": "2 mi",
+    "sub": "recovery",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Sat",
+    "main": "Rest",
+    "sub": "",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Sun",
+    "main": "16 mi",
+    "sub": "long · 6 mi @ MP",
+    "strength": "",
+    "long": true,
+    "quality": false,
+    "race": false,
+    "rest": false
+   }
+  ]
+ },
+ {
+  "week": 16,
+  "dates": "Oct 12 – Oct 18",
+  "phase": "Taper",
+  "total": "28 mi",
+  "cells": [
+   {
+    "dow": "Mon",
+    "main": "Rest",
+    "sub": "mobility",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Tue",
+    "main": "6 mi",
+    "sub": "4 mi @ MP",
+    "strength": "💪 1× light",
+    "long": false,
+    "quality": true,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Wed",
+    "main": "4 mi",
+    "sub": "easy",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Thu",
+    "main": "2 mi",
+    "sub": "easy + strides",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Fri",
+    "main": "2 mi",
+    "sub": "recovery",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Sat",
+    "main": "Rest",
+    "sub": "",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Sun",
+    "main": "14 mi",
+    "sub": "long, relaxed · cool-weather gear",
+    "strength": "",
+    "long": true,
+    "quality": false,
+    "race": false,
+    "rest": false
+   }
+  ]
+ },
+ {
+  "week": 17,
+  "dates": "Oct 19 – Oct 25",
+  "phase": "Taper",
+  "total": "20 mi",
+  "cells": [
+   {
+    "dow": "Mon",
+    "main": "Rest",
+    "sub": "mobility",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Tue",
+    "main": "5 mi",
+    "sub": "tempo 2×8 min @ MP-ish",
+    "strength": "",
+    "long": false,
+    "quality": true,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Wed",
+    "main": "3 mi",
+    "sub": "easy",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Thu",
+    "main": "2 mi",
+    "sub": "easy + 4 strides · core/mobility",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Fri",
+    "main": "Rest",
+    "sub": "",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Sat",
+    "main": "Rest",
+    "sub": "",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Sun",
+    "main": "10 mi",
+    "sub": "easy — last long run",
+    "strength": "",
+    "long": true,
+    "quality": false,
+    "race": false,
+    "rest": false
+   }
+  ]
+ },
+ {
+  "week": 18,
+  "dates": "Oct 26 – Nov 1",
+  "phase": "Taper",
+  "total": "",
+  "cells": [
+   {
+    "dow": "Mon",
+    "main": "4 mi",
+    "sub": "easy",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Tue",
+    "main": "3 mi",
+    "sub": "easy + 4 strides",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Wed",
+    "main": "Rest",
+    "sub": "",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Thu",
+    "main": "3 mi",
+    "sub": "shakeout + 4 strides",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": false
+   },
+   {
+    "dow": "Fri",
+    "main": "Rest",
+    "sub": "expo, off feet",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Sat",
+    "main": "Rest",
+    "sub": "or 15 min jog",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": false,
+    "rest": true
+   },
+   {
+    "dow": "Sun",
+    "main": "🗽 NYC",
+    "sub": "NYC MARATHON (Nov 1) — even-to-negative split",
+    "strength": "",
+    "long": false,
+    "quality": false,
+    "race": true,
+    "rest": false
+   }
+  ]
+ }
+]
