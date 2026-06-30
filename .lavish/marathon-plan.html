@@ -57,7 +57,7 @@
 			.collapse-content li > strong {
 				margin-right: 0.2rem;
 			}
-			.collapse:not(.collapse-open):not(:focus):not(:focus-within) > .collapse-content {
+			.collapse:not(.collapse-open):not(:focus):not(:focus-within):not(:has(> input:checked)) > .collapse-content {
 				visibility: hidden;
 			}
 
